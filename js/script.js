@@ -24,7 +24,7 @@
         return n.d(a, "a", a), a
     }, n.o = function(e, n) {
         return Object.prototype.hasOwnProperty.call(e, n)
-    }, n.p = "/", n(n.s = 28)
+    }, n.p = "./", n(n.s = 28)
 }([function(e, n, a) {
     "use strict";
     e.exports = a(35)
